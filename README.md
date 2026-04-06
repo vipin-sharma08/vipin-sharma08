@@ -41,4 +41,4 @@ Tools       Jupyter · Excel · GitHub · Kotak Neo API
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vipin-sharma08)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/vipin-sharma08)
 
-📍 Panvel, Maharashtra, India &nbsp;|&nbsp; 🕐 Open to remote opportunities
+📍 Mumbai, Maharashtra, India &nbsp;|&nbsp; 🕐 Open to remote opportunities
